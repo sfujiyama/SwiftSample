@@ -35,6 +35,7 @@ class DateVC: UIViewController {
         datePicker.datePickerMode = .dateAndTime
         
         datePicker.date = Date()
+        debugPrint("edit!!")
         
         
     }
