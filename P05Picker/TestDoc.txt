@@ -3,6 +3,7 @@ Git 練習サンプル
 
 TestDoc.txt
 
+コミット後の修正
 
 
 
