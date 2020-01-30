@@ -9,7 +9,7 @@
 import UIKit
 
 class PickerVC: UIViewController,UIPickerViewDataSource ,UIPickerViewDelegate {
-    var dataSorce = ["item1", "item2", "item3", "item4", "item5", "item6", "item7"]
+    var dataSorce = ["item1Dev", "item2Dev", "item3Dev", "item4Dev", "item5", "item6", "item7"]
     
     @IBOutlet weak var picker: UIPickerView!
     
