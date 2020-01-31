@@ -8,7 +8,11 @@
 
 import Foundation
 
+<<<<<<< HEAD
 // +D+ comment
+=======
+// Master ++ upd
+>>>>>>> master
 
 
 
