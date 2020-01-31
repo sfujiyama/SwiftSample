@@ -13,17 +13,17 @@ class DateVC: UIViewController {
     @IBOutlet weak var datePicker: UIDatePicker!
     
     @IBAction func nowClicked(_ sender: Any) {
-        debugPrint("DevBefore>",datePicker.date)
+        debugPrint("+D+DevBefore>",datePicker.date)
         datePicker.date = Date()
     }
     @IBAction func backClicked(_ sender: Any) {
-        debugPrint("DevBefore>",datePicker.date)
+        debugPrint("+D+DevBefore>",datePicker.date)
         let curr = datePicker.date
         datePicker.date = Date(timeInterval: -1 * 60 * 5 , since: curr)
 
     }
     @IBAction func fowardClicked(_ sender: Any) {
-        debugPrint("DevBefore>",datePicker.date)
+        debugPrint("+D+DevBefore>",datePicker.date)
         let curr = datePicker.date
         datePicker.date = Date(timeInterval:  60 * 5 , since: curr)
     }
@@ -35,7 +35,7 @@ class DateVC: UIViewController {
         datePicker.datePickerMode = .dateAndTime
         
         datePicker.date = Date()
-        debugPrint("Devedit!!")
+        debugPrint("+D+Devedit!!")
         
         
     }
