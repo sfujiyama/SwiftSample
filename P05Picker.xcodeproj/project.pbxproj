@@ -15,6 +15,7 @@
 		322575D42383AF9900E71641 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 322575D22383AF9900E71641 /* LaunchScreen.storyboard */; };
 		322575DC2383D2E300E71641 /* PickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322575DB2383D2E300E71641 /* PickerVC.swift */; };
 		326444F623E30C9500E995D2 /* Ex001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326444F523E30C9500E995D2 /* Ex001.swift */; };
+		326444F823E6ED2400E995D2 /* Text.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 326444F723E6ED2400E995D2 /* Text.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		322575D52383AF9900E71641 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		322575DB2383D2E300E71641 /* PickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerVC.swift; sourceTree = "<group>"; };
 		326444F523E30C9500E995D2 /* Ex001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex001.swift; sourceTree = "<group>"; };
+		326444F723E6ED2400E995D2 /* Text.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Text.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				322575D22383AF9900E71641 /* LaunchScreen.storyboard */,
 				322575D52383AF9900E71641 /* Info.plist */,
 				326444F523E30C9500E995D2 /* Ex001.swift */,
+				326444F723E6ED2400E995D2 /* Text.rtf */,
 			);
 			path = P05Picker;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				322575D42383AF9900E71641 /* LaunchScreen.storyboard in Resources */,
 				322575D12383AF9900E71641 /* Assets.xcassets in Resources */,
 				322575CF2383AF9800E71641 /* Main.storyboard in Resources */,
+				326444F823E6ED2400E995D2 /* Text.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
