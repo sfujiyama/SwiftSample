@@ -8,7 +8,11 @@
 
 import Foundation
 
+
+// マスターで変更
+
 // masterへ変更を加える
+
 
 //<<<<<<< HEAD
 // +D+ comment
