@@ -36,6 +36,7 @@ class DateVC: UIViewController {
         
         datePicker.date = Date()
 //<<<<<<< HEAD
+        debugPrint("デブ独自")
         debugPrint("+D+Devedit!!")
         
 //=======
