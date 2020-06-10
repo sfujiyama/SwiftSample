@@ -6,6 +6,8 @@
 //  Copyright © 2019 S.Fukase. All rights reserved.
 //
 
+// testp2  P1
+
 import UIKit
 
 class PickerVC: UIViewController,UIPickerViewDataSource ,UIPickerViewDelegate {
