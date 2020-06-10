@@ -8,6 +8,7 @@
 
 import Foundation
 
+<<<<<<< HEAD
 
 // マスターで変更
 
@@ -18,6 +19,19 @@ import Foundation
 // +D+ comment
 //=======
 // Master ++ upd
+=======
+// P1
+
+// P2 commit
+
+// P3 commit
+
+
+//<<<<<<< HEAD
+//// +D+ comment
+//=======
+//// Master ++ upd
+>>>>>>> testp1
 //>>>>>>> master
 
 
