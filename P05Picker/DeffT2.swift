@@ -14,6 +14,9 @@ struct tempStr {
         debugPrint("1b")
         debugPrint("1c")
         debugPrint("2")
+        
+        debugPrint("3a")
+        debugPrint("3B")
 
     }
 }
