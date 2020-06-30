@@ -11,7 +11,6 @@ import Foundation
 struct tempStr {
     var msg = ""
     func test(){
-        debugPrint("1b")
         debugPrint("1c")
         debugPrint("2")
         
@@ -21,6 +20,8 @@ struct tempStr {
         debugPrint("4DevT3new")
         
         debugPrint("5 first")
+
+        debugPrint("6 2")
 
 
     }
