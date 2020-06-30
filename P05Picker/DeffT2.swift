@@ -11,9 +11,10 @@ import Foundation
 struct tempStr {
     var msg = ""
     func test(){
-        debugPrint("1a")
         debugPrint("1b")
         debugPrint("1c")
+        debugPrint("2")
+
     }
 }
 
