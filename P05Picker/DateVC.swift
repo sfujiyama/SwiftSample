@@ -6,6 +6,7 @@
 //  Copyright © 2019 S.Fukase. All rights reserved.
 //
 
+// yeah!! I finish my work !!
 
 
 import UIKit
@@ -37,8 +38,8 @@ class DateVC: UIViewController {
         datePicker.datePickerMode = .dateAndTime
         
         datePicker.date = Date()
-<<<<<<< HEAD
 //<<<<<<< HEAD
+////<<<<<<< HEAD
         debugPrint("デブ独自")
         debugPrint("+D+Devedit!!")
         
@@ -48,11 +49,11 @@ class DateVC: UIViewController {
 
 //>>>>>>> master
         
-=======
-        debugPrint("+D+Devedit!!")
-        debugPrint("Devedit!!")
-        debugPrint("master++!!")
->>>>>>> testp1
+//=======
+//        debugPrint("+D+Devedit!!")
+//        debugPrint("Devedit!!")
+//        debugPrint("master++!!")
+//>>>>>>> testp1
     }
 
 
